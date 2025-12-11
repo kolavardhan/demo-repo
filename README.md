@@ -1,4 +1,4 @@
 # demo-repo
 My First Repository
 <br/>
-Author: Kola Vardhan Babu
+Author: Vardhan Babu Kola
